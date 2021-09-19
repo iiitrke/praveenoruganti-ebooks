@@ -16,4 +16,3 @@
 - [SpringBoot](https://github.com/praveenorugantitech/praveenoruganti-ebooks/raw/master/SpringBoot.pdf)
 - [JPA Using Hibernate](https://github.com/praveenorugantitech/praveenoruganti-ebooks/raw/master/JPAUsingHibernate.pdf)
 - [MicroServices, PCF and Spring Cloud](https://github.com/praveenorugantitech/praveenoruganti-ebooks/raw/master/MicroServices_PCF_Spring%20Cloud.pdf)
-- [React JS](https://github.com/praveenorugantitech/praveenoruganti-ebooks/raw/master/React%20JS.pdf)
